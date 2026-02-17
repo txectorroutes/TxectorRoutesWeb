@@ -1,0 +1,7 @@
+{
+  "name": "redirect-only",
+  "private": true,
+  "scripts": {
+    "build": "echo 'no build needed'"
+  }
+}
